@@ -1,6 +1,4 @@
 # Project_Donatello
-# Team Donatello
-# Members: Vignesh Ravikumar, Skanda Akkihebbal Prasanna, Pavan Rathnakar Shetty, Santhosh Sankar, Aadhar Bansal
 # Setup:
 In your remote PC, do the following:
 1.  Clone the repository into the catkin_ws/src. This includes the necessary packages such as turtlebot3 navigation, turtlebot3_slam, apriltag_ros, explore_lite.
